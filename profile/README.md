@@ -28,3 +28,7 @@
 ## 🛠️ Technologie und Integration  
 
 **SmartID** basiert auf neuesten Sicherheitsstandards und bewährten Technologien, um eine reibungslose Nutzererfahrung mit höchster Zuverlässigkeit zu verbinden. 
+
+---
+
+![image 12](https://github.com/user-attachments/assets/99b35436-371b-4b4b-81bc-30136e1161f5)
